@@ -6,7 +6,7 @@ int main() {
     scanf(" %d", &b);
     
   scanf(" %d", &m);
-// prova
+// prova   
 
     
     d = b;
