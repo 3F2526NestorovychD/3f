@@ -1,0 +1,2 @@
+ISTR1 viene eseguito quando C1 è vero e C2 è falso.
+ISTR3 non viene eseguito perche non esiste nel programma.

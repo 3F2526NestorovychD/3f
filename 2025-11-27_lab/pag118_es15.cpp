@@ -24,7 +24,7 @@ void calcolo_spedizione(float pesa, float tarif, float prezzobiglieto) {
 
 int main() {
    float prezzbiglieto, peso;
-    float tariffa = 0.02;
+    float tariffa = 0.02;  
     cout << "Inserisca il peso del pacco in kg: ";
     cin >> peso;
     cout << "Inserisc il prezzo del biglieto: ";
