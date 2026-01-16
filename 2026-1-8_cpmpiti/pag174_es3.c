@@ -1,14 +1,12 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#include <stdio.h>
-
 int main() {
     int a, b;
     int count = 0;
 
     printf("Inserisci due numeri interi (a e b): ");
-    scanf("%d %d", &a, &b);
+    scanf("%d \n %d", &a, &b);
 
     // scambio se a è maggiore di b
     if (a > b) {

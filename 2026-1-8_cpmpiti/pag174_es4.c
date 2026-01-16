@@ -23,7 +23,7 @@ int main(){
     }
 
     if (trovato == 1) {
-        printf("\nNumero divisibile per 7 è %d\n", n);
+        printf("\nNumero divisibile per 7 è: %d\n", n);
         printf("Tentativi effettuati: %d\n", count);
     } else {
         printf("\nFallimento.\n");

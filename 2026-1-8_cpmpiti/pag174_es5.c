@@ -13,7 +13,7 @@ int main() {
         somma += (y + i) * (y + i);
     }
 
-    printf("La somma dei quadrati dei primi %d numeri successivi a %d e': %d\n", x, y, somma);
+    printf("La somma dei quadrati dei primi %d numeri successivi a %d è: %d\n", x, y, somma);
 
     return 0;
 }

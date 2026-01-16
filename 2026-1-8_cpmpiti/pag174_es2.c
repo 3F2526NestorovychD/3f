@@ -3,6 +3,7 @@
 
 int main () {
       int n, m;
+      printf("Inserisci un numero intero positivo: ");
       scanf("%d", &n);
       if(n > 0){
         //stampo i numeri pari e dispari fino a n

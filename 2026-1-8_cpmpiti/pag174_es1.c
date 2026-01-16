@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#define P 3.1415
+#define P 3.141
 
 int main(){
     int raggio;
